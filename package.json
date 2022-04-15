@@ -12,7 +12,8 @@
     "express": "^4.17.3",
     "express-session": "^1.17.2",
     "morgan": "^1.10.0",
-    "pbkdf2-password": "^1.2.1"
+    "pbkdf2-password": "^1.2.1",
+    "resolve-path": "^1.4.0"
   },
   "devDependencies": {},
   "scripts": {
