@@ -4,4 +4,4 @@ Rewrite express example project from [Express Example](http://expressjs.com/en/s
 
 ## How to use?
 
-Do `npm i` to install all depedencies. Open example project folder and run `node index.js`
+Do `npm i` to install all depedencies. Open example project folder and run `node index.js` or `node .`
