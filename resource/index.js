@@ -17,6 +17,7 @@ app.resource = function (path, obj) {
     })
 }
 
+
 // Fake records
 
 var users = [
